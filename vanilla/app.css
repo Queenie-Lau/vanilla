@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+
+body {
+  background-color: rgb(30, 30, 30);
+  color: rgb(200, 200, 200);
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 0;
+}
+
+#circle {
+  width: 80px;
+  height: 80px;
+  left: 0px;
+  border-radius: 50px;
+  background-color: #79B0E8;
+  position: relative;
+}
+
+#canvas {
+  margin: 20px;
+  border: #85FFA4;
+}
